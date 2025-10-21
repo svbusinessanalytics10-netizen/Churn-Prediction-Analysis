@@ -1,4 +1,4 @@
-Churn Prediction Analysis
+Telecommunication Customer Churn Prediction Analysis
 
 Overview:
 Built a machine learning model to predict customer churn across all U.S. states using data from ContractData.xls and CallsData.xls.
